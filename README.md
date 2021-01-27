@@ -1,4 +1,4 @@
-# Basic-Computer-Simulation\
+# Basic-Computer-Simulation
 
 This program is a simulation of the basic fetch, decode, and execute commands that CPU will go through when executing a command. 
 The program is based in Java and has many different test cases to utilize all the functions within it.
